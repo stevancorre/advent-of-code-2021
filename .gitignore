@@ -1,3 +1,6 @@
 .vscode
 
 solve-part-[1-2]
+
+*.o
+*.ali
