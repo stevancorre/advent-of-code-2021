@@ -13,7 +13,7 @@ This is my first time doing that, and to make it more interesting, i'm going to 
 To make something original, I'll use on different programming language per day. To know what language I should use for the `nth` day, I thinked of using `advent of code by stevan corre` as a "plan", since it contains `25` letters, for the `nth` day, I take the `nth` letter of this sentence, find a programming language which starts with this letter, and use it !
 
 - [x] Day 01: **A**da
-- [ ] Day 02: **D**
+- [x] Day 02: **D**
 - [ ] Day 03: **V**BScript
 - [ ] Day 04: **E**rlang
 - [ ] Day 05: **N**eko
